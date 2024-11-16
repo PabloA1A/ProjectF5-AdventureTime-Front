@@ -2,6 +2,12 @@
 
 Adventure Time es una aplicación web diseñada para gestionar eventos en línea como talleres, masterclass o webinars. Los usuarios pueden ver la descripción de un evento, registrarse y cancelar su registro. También pueden ver la lista de eventos a los que se han registrado. Los administradores tienen herramientas para la gestión completa (CRUD) de los eventos.
 
+![Login](Login.png)
+![Home](Home.png)
+![Event](Event.png)
+![Dashboard](Dashboard.png)
+![Dashboard](Dashboard2.png)
+
 ## Requisitos del Sistema
 
 - Node.js v14 o superior
